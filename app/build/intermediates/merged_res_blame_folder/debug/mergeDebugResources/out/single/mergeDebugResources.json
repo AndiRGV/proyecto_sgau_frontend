@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.umg.sgauapp-debug-41:/layout_activity_form.xml.flat",
+        "source": "com.umg.sgauapp-main-43:/layout/activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\andyr\\.gradle\\daemon\\9.3.0\\com.umg.sgauapp-debug-41:\\layout_item_record.xml.flat",
+        "source": "C:\\Users\\andyr\\.gradle\\daemon\\9.3.0\\com.umg.sgauapp-main-43:\\layout\\item_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\andyr\\.gradle\\daemon\\9.3.0\\com.umg.sgauapp-debug-41:\\layout_activity_form.xml.flat",
+        "source": "C:\\Users\\andyr\\.gradle\\daemon\\9.3.0\\com.umg.sgauapp-main-43:\\layout\\activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\andyr\\.gradle\\daemon\\9.3.0\\com.umg.sgauapp-debug-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\andyr\\.gradle\\daemon\\9.3.0\\com.umg.sgauapp-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\andyr\\.gradle\\daemon\\9.3.0\\com.umg.sgauapp-debug-41:\\layout_activity_list.xml.flat",
+        "source": "C:\\Users\\andyr\\.gradle\\daemon\\9.3.0\\com.umg.sgauapp-main-43:\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\andyr\\.gradle\\daemon\\9.3.0\\com.umg.sgauapp-debug-41:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\andyr\\.gradle\\daemon\\9.3.0\\com.umg.sgauapp-main-43:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\andyr\\.gradle\\daemon\\9.3.0\\com.umg.sgauapp-debug-41:\\layout_item_module.xml.flat",
+        "source": "C:\\Users\\andyr\\.gradle\\daemon\\9.3.0\\com.umg.sgauapp-main-43:\\layout\\item_module.xml"
+    }
+]

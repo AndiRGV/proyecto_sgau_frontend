@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application android:allowBackup="true" android:label="SGAU" android:supportsRtl="true" android:theme="@style/Theme.SGAU" android:usesCleartextTraffic="true">
+        <activity android:name=".ui.FormActivity" android:exported="false" />
+        <activity android:name=".ui.ListActivity" android:exported="false" />
+        <activity android:name=".ui.MainActivity" android:exported="false" />
+        <activity android:name=".ui.LoginActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135504104278",
+    "project_id": "comumg-sgauapp",
+    "storage_bucket": "comumg-sgauapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135504104278:android:93b48a03f3a77e742324f7",
+        "android_client_info": {
+          "package_name": "com.umg.sgauapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxOV6BFJqhgB4HZq2W_aT2pqG9EAQ2t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
