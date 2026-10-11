@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SGAU</string>
+    <string name="gcm_defaultSenderId" translatable="false">135504104278</string>
+    <string name="google_api_key" translatable="false">AIzaSyDrxOV6BFJqhgB4HZq2W_aT2pqG9EAQ2t8</string>
+    <string name="google_app_id" translatable="false">1:135504104278:android:93b48a03f3a77e742324f7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDrxOV6BFJqhgB4HZq2W_aT2pqG9EAQ2t8</string>
+    <string name="google_storage_bucket" translatable="false">comumg-sgauapp.firebasestorage.app</string>
+    <string name="project_id" translatable="false">comumg-sgauapp</string>
+    <style name="Theme.SGAU" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#183A63</item>
+        <item name="colorPrimaryVariant">#102944</item>
+        <item name="colorSecondary">#00A6A6</item>
+        <item name="android:statusBarColor">#102944</item>
+        <item name="android:navigationBarColor">#102944</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>

@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.umg.sgauapp"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.0.0" >
 
     <uses-sdk
         android:minSdkVersion="24"
@@ -25,7 +25,6 @@
         android:extractNativeLibs="false"
         android:label="SGAU"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.SGAU"
         android:usesCleartextTraffic="true" >
         <activity

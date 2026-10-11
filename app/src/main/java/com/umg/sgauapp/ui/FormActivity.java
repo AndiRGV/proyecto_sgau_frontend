@@ -68,8 +68,9 @@ public class FormActivity extends AppCompatActivity {
             ));
 
             TextInputEditText edit = new TextInputEditText(this);
-            edit.setSingleLine(false);
+            edit.setSingleLine(true);
             edit.setInputType(inputType(key));
+            edit.setBackground(null);
 
             if (record != null && record.has(key) && !record.get(key).isJsonNull()) {
                 edit.setText(record.get(key).getAsString());
